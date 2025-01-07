@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, ini
+    <title>introducion a <HTML></HTML></title>
+
+    
+
+ <head>
+</head>
+<body>
+   
+    <h1>
+
+        LAS PAGINAS WEB SON ARCHIVOS DE TEXTO
+
+     
+</h1>
+<h2>
+
+    PODEMOS UTILIZAR EL BLOC DE NOTAS
+
+   
+
+</h2>
